@@ -21,7 +21,7 @@ public class UserAccessTest extends Baseclass{
 		signUpData[0][1]="Ashu";
 		signUpData[0][2]="Singh";
 		signUpData[0][3]="7042579843";
-		signUpData[0][4]="Ashu@123";
+		signUpData[0][4]="Ashu@1234";
 		
 		return signUpData;
 	}
